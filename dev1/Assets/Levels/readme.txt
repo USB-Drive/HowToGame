@@ -1,0 +1,1 @@
+All game levels (.unity scene files) should be placed within this folder.
